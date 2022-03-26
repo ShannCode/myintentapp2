@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">myintentapp</string>
+    <string name="move_activity">MOVE ACTIVITY</string>
+    <string name="halaman_move_activity">Hello Shann</string>
+    <string name="data_received" />
+    <string name="move_with_data">MOVE ACTIVITY WITH DATA</string>
+    <string name="move_with_object">MOVE WITH OBJECT</string>
+    <string name="object_received" />
+    <string name="dial_number" />
+    <string name="choose_number" />
+    <string name="_50" />
+    <string name="_100" />
+    <string name="_150" />
+    <string name="_200" />
+    <string name="choose" />
+</resources>
